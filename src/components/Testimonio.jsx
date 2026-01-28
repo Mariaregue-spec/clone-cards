@@ -1,4 +1,4 @@
-import '../styles/Testimonio.css';
+import '../styles/testimonio.css';
 
 const imagenes = import.meta.glob('../assets/img/*.png', {
     eager: true,
