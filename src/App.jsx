@@ -1,7 +1,6 @@
 import './App.css';
 
 import Testimonio from './components/testimonio';
-<styles></styles>
 function App() {
   return (
     <div className="App">
