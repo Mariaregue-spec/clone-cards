@@ -1,6 +1,6 @@
 import './App.css';
 
-import Testimonio from './components/testimonio';
+import Testimonio from './components/Testimonio';
 function App() {
   return (
     <div className="App">
